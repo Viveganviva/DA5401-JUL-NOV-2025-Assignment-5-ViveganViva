@@ -1,1 +1,7 @@
 # DA5401-JUL-NOV-2025-Assignment-5-ViveganViva
+
+
+THE REPOSITORY CONTAINS A SINGLE PYTHON NOTEBOOK THAT HAS ALL THE CODE AND SERVES AS A REPORT AS WELL. THE HYPOTHESIS IS STATED IN THE FILE AND THE PLOTS, THE INFERENCES AND RESULTS ARE GIVEN IN THE MARKDOWN DESCRIPTION WITHIN THE NOTEBOOK. 
+
+Note: Apologies for teh late submission. I hope this doesn't attract a huge penalty. The code was entirely hand written with no LLM assistance.
+
